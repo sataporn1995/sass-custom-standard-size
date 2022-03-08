@@ -1,6 +1,6 @@
 # sass-custom-standard-size
 Customize CSS with SASS (SCSS)<br>
-**Link file "standard-size.min.css" into your project**
+**<b style="color: red">Link file "standard-size.min.css" into your project</b>**
 
 ### % Width
 .w-1 to .w-100
